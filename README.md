@@ -3,7 +3,7 @@ Contoh Tampilan Web Sekolah
 
 Contoh Web Sekolah Vroh, langsung akses di mari
 
-[http://novay.github.io/contoh-web-sekolah](http://novay.github.io/contoh-web-sekolah)
+[http://mracys123.github.io/web-robot](http://mracys123.github.io/web-robot)
 
 Beberapa konten belum terisi... Pokoknya gitulah... Ngahahaha....
 
